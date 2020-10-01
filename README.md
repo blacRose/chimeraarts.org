@@ -1,4 +1,4 @@
-# ChimeraArts.org
+# ChimeraArts.org An amazing
 
 The website source code for <http://www.chimeraarts.org>.
 
